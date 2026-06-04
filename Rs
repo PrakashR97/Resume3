@@ -1,0 +1,19 @@
+Developed and maintained Oracle PL/SQL Procedures, Functions, Packages, Triggers, and Cursors.
+* Created and optimized complex SQL queries for data extraction, validation, reporting, and performance tuning.
+* Worked extensively with DDL, DML, and database objects in Oracle.
+* Used SQL*Loader for bulk data loading and migration activities.
+* Developed ETL solutions using SQL Server Integration Services (SSIS).
+* Created SSIS packages using Control Flow Tasks, Data Flow Tasks, and C# Script Tasks.
+* Developed C# scripts for data transformation and custom business requirements.
+* Migrated and transformed data between SQL Server and Oracle databases.
+*     Hands-on experience with Azure Data Factory (ADF), Azure Data Lake Storage (ADLS), Azure SQL Database, Python, and PySpark.
+* Completed self-learning projects involving data ingestion, transformation, and orchestration using Azure Data Factory.
+* Developed Python and PySpark scripts for data processing and automation.
+* Demonstrated initiative in learning modern cloud data engineering technologies independently.
+* Currently learning Azure Databricks and Spark-based data engineering solutions.
+
+Databases: Oracle, SQL Server
+Programming: PL/SQL, SQL, C#, Python, PySpark
+ETL Tools: SSIS, SQL*Loader
+Cloud: Azure Data Factory (ADF), Azure Data Lake Storage (ADLS), Azure SQL Database, Azure Key Vault
+Currently Learning: Azure Databricks
