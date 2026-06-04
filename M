@@ -1,0 +1,1 @@
+Built and implemented self-learning projects using Azure Data Factory, Python, and PySpark for data ingestion, transformation, and orchestration.
