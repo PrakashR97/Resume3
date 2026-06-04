@@ -1,0 +1,3 @@
+Databases & ETL: Oracle, SQL Server, PL/SQL, SQL, SSIS, SQL*Loader.
+Programming: C#, Python, PySpark, Data Migration and Data Transformation.
+Cloud Technologies: Azure Data Factory (ADF), ADLS, Azure SQL Database, Azure Key Vault; currently learning Azure Databricks.
