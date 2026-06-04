@@ -1,0 +1,1 @@
+Oracle | SQL Server | PL/SQL | SSIS | C# | Python | PySpark | ADF | ADLS | Azure SQL | Key Vault | Azure Databricks (Learning)g
